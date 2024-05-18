@@ -1,34 +1,56 @@
-# Travel_Itinarary_Planner
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/tourly)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/tourly?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/tourly?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/FYFmQEpZywc?style=social)](https://youtu.be/FYFmQEpZywc)
 
-Overview:
-Tourly is a modern travel agency website designed to provide users with a seamless booking experience for their dream vacations. The website offers a range of features, including dynamic destination search, package browsing, and interactive galleries, all wrapped in an elegant and user-friendly interface.
+  <br />
+  <br />
+  
+  <img src="./readme-images/project-logo.png" />
 
-Key Features:
+  <h2 align="center">Tourly - Travel website</h2>
 
-1. Header Section:
-   - Includes branding elements like the logo and helpline number for easy access.
-   - Navigation buttons and social media links facilitate seamless navigation and engagement.
+  Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-2. Main Content Sections:
-   - Hero Section: Engaging hero section with clear messaging and prominent call-to-action buttons for registration and login.
-   - Tour Search Section: Dynamic destination search form with PHP integration for fetching destinations from a database.
-   - Popular Destination Section: Interactive section displaying popular destinations with the option to view more attractions dynamically.
-   - Package Section: Database-driven package listings presented in visually appealing cards with key details and booking options.
-   - Gallery Section: A visually stunning gallery showcasing traveler photos to inspire users and enhance engagement.
-   - Call-to-Action Section: Encourages users to take action by contacting the agency or subscribing to updates.
+  <a href="https://codewithsadee.github.io/tourly/"><strong>➥ Live Demo</strong></a>
 
-3. Footer Section:
-   - Includes essential contact information, subscription form, and links to important pages like privacy policy and FAQs.
-   - Accessibility features ensure all users can access and navigate the website effectively.
+</div>
 
-4. JavaScript Functionality:
-   - Popup Forms: JavaScript controls the opening and closing of registration, login, and booking forms, providing a seamless user experience.
-   - Form Submission Handling: Asynchronous form submission using Fetch API ensures immediate feedback to users and robust error handling.
-   
-Recommendations:
-- Enhance code readability and collaboration by adding comments to explain complex logic.
-- Implement client-side form validation to improve user experience and prevent invalid data submission.
-- Ensure the website is fully responsive and optimized for various devices and screen sizes.
-- Apply security best practices to protect user data and prevent common vulnerabilities.
-- Optimize code and assets for improved page load times and overall performance.
+<br />
 
+### Demo Screeshots
+
+![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+### Run Locally
+
+To run **Tourly** locally, run this command on your git bash:
+
+Linux and macOS:
+
+```bash
+sudo git clone https://github.com/codewithsadee/tourly.git
+```
+
+Windows:
+
+```bash
+git clone https://github.com/codewithsadee/tourly.git
+```
+
+### Contact
+
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+This project is **free to use** and does not contains any license.
